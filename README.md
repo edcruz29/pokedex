@@ -1,3 +1,13 @@
+# Pokedex
+
+## Sobre
+
+O objetivo deste projeto é continuar o aprendizado das funcionalidades básicas do React.
+
+Utilizei a API para buscar as informações dos pokemons: https://pokeapi.co/api/v2/ability/{id or name}/
+
+Próximos passos, criar banco de dados e integrar ao projeto.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
